@@ -1,4 +1,5 @@
 ```mermaid
+%%{init: {'themeVariables': {'fontSize': '12px'}}}%%
 flowchart TD
 
 
